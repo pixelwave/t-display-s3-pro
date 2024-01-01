@@ -1,4 +1,4 @@
-<img width="640" alt="image" src="https://github.com/pixelwave/t-display-s3-pro/assets/19491804/30bf49e6-828b-4334-9f3c-8d7fdda223ac">T-Display-S3-Pro sample project for troubleshooting.
+T-Display-S3-Pro sample project for troubleshooting.
 
 Current issue that the touchscreen does not work reliably when using battery mode. Only when attached to USB cable / power.
 
